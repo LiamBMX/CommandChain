@@ -17,3 +17,6 @@ if (player.box.color === "red") {
 - [ ] Integrate ollama local AI to help users when they get stuck
 - [ ] Add levels and ways to add more than one dropoff where boxes spawn at
 - [ ] ReName project (CommandChain sucks)
+
+# Downloading and running locally
+Pull the code, install node packages, run dev, if you dont know how to do that use the website, its free :)
